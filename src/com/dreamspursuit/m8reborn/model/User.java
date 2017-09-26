@@ -5,4 +5,5 @@ public class User {
 	private String fName;
 	private String lName;
 	private String studentNumber;
+	private University university;
 }
